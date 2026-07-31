@@ -1,34 +1,59 @@
-# Angelos Miliotis
+# Hi, I'm Angelos Miliotis
 
-I am a Computer Engineering student based in Ioannina, Greece, focused on building practical full-stack software. I am interested in Software Engineering Intern and Junior Full-Stack Developer opportunities where I can keep improving through real engineering work.
+Incoming BSc (Hons) Computer Science student at Metropolitan College, starting in October 2026. The degree is awarded by the University of East London.
 
-## Current focus
+I previously completed substantial undergraduate coursework in Computer Science and Engineering at the University of Ioannina, with a focus on Java, C, Python, object-oriented programming, data structures, algorithms and software development.
 
-- Building Next.js and React applications with TypeScript
-- Working with PostgreSQL and Supabase
-- Improving my C# and .NET knowledge
-- Strengthening software testing and reliable development workflows
+I am currently seeking full-time remote opportunities, or positions in Athens or Nafplio, in software engineering, Java development, QA or technical support.
 
-## Featured project
+## Featured work
 
-### [PetNest](https://github.com/angelosmiliotis/pet-shop)
+### Java OOP Coursework
 
-PetNest is a Greek pet-shop e-commerce portfolio prototype built with Next.js, TypeScript, PostgreSQL and Supabase. It includes catalogue, cart, checkout, administration and order-management architecture. The repository is validated through deterministic mock-safe automated tests and GitHub Actions; it is not presented as a live production business.
+Individual university assignments implemented in Java from written specifications, including:
 
-## Additional work
+* Circular Queue
+* Toroidal Grid Adventure
+* Console Dominoes
+* Predator-Prey Simulation
 
-- **Opal OS** — a hotel operations and access-control management platform currently being prepared for portfolio publication.
-- **[PCure](https://pcure.gr)** — a practical web and service project.
+The repository demonstrates object-oriented programming, inheritance, polymorphism, custom data structures, collections, simulations and debugging.
 
-## Technologies
+[View the repository](https://github.com/angelosmiliotis/java-oop-coursework)
 
-TypeScript · JavaScript · React · Next.js · PostgreSQL · Supabase · C# / .NET · Git and GitHub · Playwright
+### PetNest
 
-## Development approach
+An AI-assisted e-commerce portfolio prototype. I defined the product requirements and workflows, reviewed the generated implementation, tested user journeys, documented limitations and supported debugging and GitHub validation.
 
-I use AI-assisted development as part of an iterative engineering workflow: defining requirements, reviewing generated changes, testing and debugging behavior, documenting decisions, and accepting or rejecting technical changes based on evidence and project goals.
+Project technologies include Next.js, TypeScript, PostgreSQL, Supabase and Playwright. These are presented as project technologies, not as technologies I independently claim to have mastered.
 
-## Contact
+[View the repository](https://github.com/angelosmiliotis/pet-shop)
+[Open the live demo](https://petnest-preview-sage.vercel.app)
 
-- [GitHub](https://github.com/angelosmiliotis)
-- [Website](https://pcure.gr)
+### Product Price Data Manager
+
+A three-person Java university team project completed during the 2025–2026 Software Development course. The course supplied the front end, interfaces, DTOs and starter structure, while the team completed and integrated the required application behavior in Java 8 using Eclipse.
+
+The application loads, analyses and visualises historical commodity-price data through CLI and Swing interfaces.
+
+The source is not currently published publicly.
+
+## Technical foundations
+
+* Java
+* Object-Oriented Programming
+* Data Structures and Algorithms
+* Academic coursework in C and Python
+* Debugging and software testing
+* Git and GitHub fundamentals
+
+## IT and operations experience
+
+Since 2023, I have managed hotel operations and technical systems at Opal Executive Suites, including Wi-Fi, CCTV, smart locks, access-control gateways and room tablets.
+
+Through [PCure](https://pcure.gr), I provide PC cleaning, upgrades, Windows setup and hardware/software troubleshooting.
+
+## Links
+
+* [LinkedIn](https://www.linkedin.com/in/angelos-miliotis-21300b34a)
+* [PCure](https://pcure.gr)
